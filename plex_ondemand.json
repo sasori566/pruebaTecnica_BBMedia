@@ -1,0 +1,58 @@
+{
+    "OnDemand": {
+        "Peliculas": {
+            "Los despiadados": {
+                "Director": "Sergio Corbucci",
+                "Año": "1967",
+                "Duración": "90min",
+                "Género": "Western,Action,Adventure",
+                "Clasificación": "Not Rated",
+                "Descripción": "In the gritty Southwest, a Confederate Colonel and his three sons, joined by a cunning gambler, embark on a perilous journey, transporting a coffin filled with illicit cash. Their quest to resurrect the South spirals into chaos, testing loyalty and morality.",
+                "Reparto": "Joseph Cotten, Norma Bengell, Aldo Sambrell",
+                "Link": "https://watch.plex.tv/es/movie/the-hellbenders"
+            }
+        },
+        "Series": {
+            "El llanero solitario": {
+                "Año": "1949",
+                "Género": "Western,Adventure,Action",
+                "Clasificación": "TV-G",
+                "Descripción": "In the Wild West, the lone survivor of the Texas Rangers, aided by the wise Tonto, rides with justice in his heart. Together, on their trusty steeds Silver and Scout, they battle tyranny, protect the innocent, and uphold the law with honor and courage.",
+                "Reparto": "Jay Silverheels, Clayton Moore, John Hart",
+                "Link": "https://watch.plex.tv/es/show/the-lone-ranger",
+                "Datos de episodios": {
+                    "https://watch.plex.tv/es/show/the-lone-ranger/season/1/episode/1": {
+                        "Título del episodio": "Enter the Lone Ranger",
+                        "Descripción del episodio": "John Reid, the sole surviving Texas Ranger of a murderous ambush, becomes the great masked hero with his companion, Tonto.",
+                        "Duración del episodio": "30min",
+                        "Fecha de emisión del episodio": "14 sept 1949"
+                    },
+                    "https://watch.plex.tv/es/show/the-lone-ranger/season/1/episode/2": {
+                        "Título del episodio": "The Lone Ranger Fights On",
+                        "Descripción del episodio": "The origin of the Lone Ranger's horse Silver and his use of silver bullets is explained.",
+                        "Duración del episodio": "30min",
+                        "Fecha de emisión del episodio": "21 sept 1949"
+                    },
+                    "https://watch.plex.tv/es/show/the-lone-ranger/season/1/episode/3": {
+                        "Título del episodio": "The Lone Ranger's Triumph",
+                        "Descripción del episodio": "The Lone Ranger still on the trail of Butch Cavendish and his gang sends Tonto to the town of Colby to organize a posse with the sheriff. Tonto receives no help and the suspicion is a number of people in the town are working for Cavandish. The Lone Ranger must launch a daring plan to foil the Cavandish gang's plan to take over the town of Colby.",
+                        "Duración del episodio": "30min",
+                        "Fecha de emisión del episodio": "28 sept 1949"
+                    },
+                    "https://watch.plex.tv/es/show/the-lone-ranger/season/1/episode/4": {
+                        "Título del episodio": "The Legion of Old Timers",
+                        "Descripción del episodio": "Bob Kittredge is being forced by Red Devers to sell the ranch he inherited from his father. The Lone Ranger and Tonto, aided by Banty Bishop and the old ranch hands rescue Kittredge, and the ranch (and jobs of the ranch hands) are restored.",
+                        "Duración del episodio": "30min",
+                        "Fecha de emisión del episodio": "5 oct 1949"
+                    },
+                    "https://watch.plex.tv/es/show/the-lone-ranger/season/1/episode/5": {
+                        "Título del episodio": "Rustler's Hideout",
+                        "Descripción del episodio": "The Vance family settles right in the middle of a war between the Madden gang and local ranches. Despite the hostility to Fred Vance over his past, he decides he will not be run off this parcel of land. The Lone Ranger believes in Fred's innocence, and asks him to help stop the ranchers riding into an ambush and then set a counter trap for the gang after rescuing the son of one of the ranchers being held hostage.",
+                        "Duración del episodio": "30min",
+                        "Fecha de emisión del episodio": "12 oct 1949"
+                    }
+                }
+            }
+        }
+    }
+}
